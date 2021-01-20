@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "60041ddb233f6334e5a5cbd7"
+  },
+  "marca": "Tarugo Boss",
+  "graduacio": {
+    "dreta": 2.5,
+    "esquerra": 2.3
+  },
+  "muntura": "flotant",
+  "color_muntura": "verd",
+  "color_vidres": {
+    "dreta": "negre",
+    "esquerra": "blau"
+  },
+  "preu": 250.99,
+  "empleat": "Giselle"
+},{
+  "_id": {
+    "$oid": "60041edc757c9a07849ef8fe"
+  },
+  "marca": "Murray Band",
+  "graduacio": {
+    "dreta": 1.5,
+    "esquerra": 3.3
+  },
+  "muntura": "pasta",
+  "color_muntura": "groc",
+  "color_vidres": {
+    "dreta": "groc",
+    "esquerra": "groc"
+  },
+  "preu": 550.99,
+  "empleat": "Rachelle"
+}]

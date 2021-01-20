@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "60041fa4757c9a07849ef8ff"
+  },
+  "nom": "Ruttiger",
+  "address": {
+    "carrer": "Troyano",
+    "numero": "25",
+    "pis": "4",
+    "porta": "3",
+    "ciutat": "Carcallona",
+    "cp": "08000",
+    "pais": "Apanya"
+  },
+  "telefon": "003454566778",
+  "email": "rutti@ger.trud",
+  "data_registre": {
+    "$date": "2021-01-15T00:00:00Z"
+  },
+  "recomanat_per": ""
+},{
+  "_id": {
+    "$oid": "600458c0757c9a07849ef900"
+  },
+  "nom": "Filomena",
+  "address": {
+    "carrer": "Multeras",
+    "numero": "42",
+    "pis": "7",
+    "porta": "1",
+    "ciutat": "Carcallona",
+    "cp": "08020",
+    "pais": "Apanya"
+  },
+  "telefon": "10023411564",
+  "email": "moltaneu@mad.tro",
+  "data_registre": {
+    "$date": "2020-11-15T00:00:00Z"
+  },
+  "recomanat_per": "Diana"
+},{
+  "_id": {
+    "$oid": "600458c2757c9a07849ef901"
+  },
+  "nom": "Diana",
+  "address": {
+    "carrer": "Risatont",
+    "numero": "687",
+    "pis": "3",
+    "porta": "4",
+    "ciutat": "Carcallona",
+    "cp": "08017",
+    "pais": "Apanya"
+  },
+  "telefon": "003454566778",
+  "email": "kroll@crymear.river",
+  "data_registre": {
+    "$date": "2021-01-17T00:00:00Z"
+  },
+  "recomanat_per": "Ruttiger"
+}]

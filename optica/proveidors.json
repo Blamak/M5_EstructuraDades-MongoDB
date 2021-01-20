@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "60040f07233f6334e5a5cbd3"
+  },
+  "nom": "Eyes Wide Shut",
+  "marques": [
+    "Tarugo Boss",
+    "Wonder-Feliciano",
+    "Eye of the Tiger"
+  ],
+  "address": {
+    "carrer": "Kilgore Trout",
+    "numero": "156",
+    "pis": "8",
+    "porta": "1",
+    "ciutat": "Carcallona",
+    "cp": "08045",
+    "pais": "Apanya"
+  },
+  "telefon": "93456654654",
+  "fax": "9345665465",
+  "NIF": "385466454A"
+},{
+  "_id": {
+    "$oid": "60040ff4757c9a07849ef8fd"
+  },
+  "nom": "Rompetechos",
+  "marques": [
+    "Murray Band",
+    "Costa-Mioperos",
+    "Vindiesel"
+  ],
+  "address": {
+    "carrer": "Currupipi",
+    "numero": "54",
+    "pis": "2",
+    "porta": "1",
+    "ciutat": "Apaloosa",
+    "cp": "114456465",
+    "pais": "Polakia"
+  },
+  "telefon": "001456456444",
+  "fax": "00164586456",
+  "NIF": "489744564aa"
+}]
