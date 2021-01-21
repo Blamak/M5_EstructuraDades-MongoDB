@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "60045a08233f6334e5a5cbdc"
+  },
+  "nom": "Ray",
+  "cognoms": "Gelato",
+  "address": {
+    "carrer": "Mambo italiano",
+    "pis": "4",
+    "porta": "3",
+    "cp": "456545644",
+    "localitat": {
+      "$oid": "6005b90fc2f2cb1e1d4145ff"
+    }
+  },
+  "telefon": "97265478944",
+  "comandes": [
+    {
+      "$oid": "60059d2a0d480588e7ba93dd"
+    },
+    {
+      "$oid": "6005b703a9be8a2523034721"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6005989ffa641529b82fe196"
+  },
+  "nom": "King ",
+  "cognoms": "Porter Stomp",
+  "address": {
+    "carrer": "Jelly Roll",
+    "pis": "7",
+    "porta": "1",
+    "cp": "7894354564",
+    "localitat": {
+      "$oid": "6005b938c2f2cb1e1d414601"
+    }
+  },
+  "telefon": "9724569874",
+  "comandes": [
+    {
+      "$oid": "6005b70aa9be8a2523034722"
+    },
+    {
+      "$oid": "6005b70fa9be8a2523034723"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60059907fa641529b82fe197"
+  },
+  "nom": "Sidney",
+  "cognoms": "Bechet",
+  "address": {
+    "carrer": "Blue Horizon",
+    "pis": "10",
+    "porta": "5",
+    "cp": "45645646",
+    "localitat": {
+      "$oid": "6005b972c2f2cb1e1d414603"
+    }
+  },
+  "telefon": "9365485214",
+  "comandes": [
+    {
+      "$oid": "6005b714a9be8a2523034724"
+    }
+  ]
+}]

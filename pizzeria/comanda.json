@@ -1,0 +1,119 @@
+[{
+  "_id": {
+    "$oid": "60059d2a0d480588e7ba93dd"
+  },
+  "data": {
+    "$date": "2021-01-17T20:38:32Z"
+  },
+  "repartiment": "domicili",
+  "repartidor": {
+    "$oid": "6005bbcfa9be8a252303472a"
+  },
+  "lliurament": {
+    "$date": "2021-01-17T21:17:45Z"
+  },
+  "productes": [
+    {
+      "producte": "pizza",
+      "quantitat": 2,
+      "categoria": [
+        "ortolana",
+        "capricciosa"
+      ]
+    },
+    {
+      "producte": "beguda",
+      "quantitat": 4
+    }
+  ],
+  "preu": 50
+},{
+  "_id": {
+    "$oid": "6005b703a9be8a2523034721"
+  },
+  "data": {
+    "$date": "2021-01-15T00:00:00Z"
+  },
+  "repartiment": "botiga",
+  "productes": [
+    {
+      "producte": "pizza",
+      "quantitat": 3,
+      "categoria": [
+        "ortolana",
+        "diavola",
+        "diavola"
+      ]
+    }
+  ],
+  "preu": 60
+},{
+  "_id": {
+    "$oid": "6005b70aa9be8a2523034722"
+  },
+  "data": {
+    "$date": "2021-01-18T10:55:47Z"
+  },
+  "repartiment": "domicili",
+  "repartidor": {
+    "$oid": "6005bcb6a9be8a252303472b"
+  },
+  "lliurament": {
+    "$date": "2021-01-18T11:26:13Z"
+  },
+  "productes": [
+    {
+      "producte": "hamburguesa",
+      "quantitat": 2
+    }
+  ],
+  "preu": 30
+},{
+  "_id": {
+    "$oid": "6005b70fa9be8a2523034723"
+  },
+  "data": {
+    "$date": "2021-01-15T00:00:00Z"
+  },
+  "repartiment": "botiga",
+  "productes": [
+    {
+      "producte": "pizza",
+      "quantitat": 2,
+      "categoria": [
+        "capricciosa",
+        "ortolana"
+      ]
+    },
+    {
+      "producte": "hamburguesa",
+      "quantitat": 4
+    }
+  ],
+  "preu": 100
+},{
+  "_id": {
+    "$oid": "6005b714a9be8a2523034724"
+  },
+  "data": {
+    "$date": "2021-01-15T16:02:51Z"
+  },
+  "repartiment": "domicili",
+  "repartidor": {
+    "$oid": "6005bcb6a9be8a252303472b"
+  },
+  "lliurament": {
+    "$date": "2021-01-15T16:22:11Z"
+  },
+  "productes": [
+    {
+      "producte": "hamburguesa",
+      "quantitat": 1
+    },
+    {
+      "producte": "beguda",
+      "quantitat": 3
+    }
+  ],
+  "preu": 22.5
+}]

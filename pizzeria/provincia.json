@@ -1,0 +1,58 @@
+[{
+  "_id": {
+    "$oid": "60059b840d480588e7ba93dc"
+  },
+  "nom": "Gitrona",
+  "localitats": [
+    {
+      "id": {
+        "$oid": "6005b90fc2f2cb1e1d4145ff"
+      },
+      "nom": "Frigueres"
+    },
+    {
+      "id": {
+        "$oid": "6005b938c2f2cb1e1d414601"
+      },
+      "nom": "Babaneres"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60059c64fa641529b82fe198"
+  },
+  "nom": "Carcallona",
+  "localitats": [
+    {
+      "id": {
+        "$oid": "6005b94ac2f2cb1e1d414602"
+      },
+      "nom": "Farrassa"
+    },
+    {
+      "id": {
+        "$oid": "6005b972c2f2cb1e1d414603"
+      },
+      "nom": "Nollet"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60059c67fa641529b82fe199"
+  },
+  "nom": "Parragona",
+  "localitats": [
+    {
+      "id": {
+        "$oid": "6005b922c2f2cb1e1d414600"
+      },
+      "nom": "Treus"
+    },
+    {
+      "id": {
+        "$oid": "6005b984c2f2cb1e1d414604"
+      },
+      "nom": "Gonstantí"
+    }
+  ]
+}]

@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "6005bbcfa9be8a252303472a"
+  },
+  "nom": "Reginald",
+  "cognoms": "Kenneth Dwight",
+  "nif": "4456455AA",
+  "telefon": "987456111",
+  "tasca": "cuiner",
+  "botiga": {
+    "$oid": "6005b7fca9be8a2523034728"
+  }
+},{
+  "_id": {
+    "$oid": "6005bcb6a9be8a252303472b"
+  },
+  "nom": "Janis",
+  "cognoms": "Lyn Joplin",
+  "nif": "55854484784",
+  "telefon": "001454568877",
+  "tasca": "repartidor",
+  "botiga": {
+    "$oid": "6005ba66a9be8a2523034729"
+  }
+}]
