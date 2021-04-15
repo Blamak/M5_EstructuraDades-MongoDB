@@ -2,57 +2,57 @@
   "_id": {
     "$oid": "60059b840d480588e7ba93dc"
   },
-  "nom": "Gitrona",
+  "nom": "Girona",
   "localitats": [
     {
       "id": {
         "$oid": "6005b90fc2f2cb1e1d4145ff"
       },
-      "nom": "Frigueres"
+      "nom": "Figueres"
     },
     {
       "id": {
         "$oid": "6005b938c2f2cb1e1d414601"
       },
-      "nom": "Babaneres"
+      "nom": "Girona"
     }
   ]
 },{
   "_id": {
     "$oid": "60059c64fa641529b82fe198"
   },
-  "nom": "Carcallona",
+  "nom": "Barcelona",
   "localitats": [
     {
       "id": {
         "$oid": "6005b94ac2f2cb1e1d414602"
       },
-      "nom": "Farrassa"
+      "nom": "Hospitalet"
     },
     {
       "id": {
         "$oid": "6005b972c2f2cb1e1d414603"
       },
-      "nom": "Nollet"
+      "nom": "Mollet"
     }
   ]
 },{
   "_id": {
     "$oid": "60059c67fa641529b82fe199"
   },
-  "nom": "Parragona",
+  "nom": "Tarragona",
   "localitats": [
     {
       "id": {
         "$oid": "6005b922c2f2cb1e1d414600"
       },
-      "nom": "Treus"
+      "nom": "Reus"
     },
     {
       "id": {
         "$oid": "6005b984c2f2cb1e1d414604"
       },
-      "nom": "Gonstantí"
+      "nom": "Constantí"
     }
   ]
 }]

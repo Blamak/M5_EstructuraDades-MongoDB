@@ -4,13 +4,13 @@
   },
   "nom": "Ruttiger",
   "address": {
-    "carrer": "Troyano",
+    "carrer": "Arago",
     "numero": "25",
     "pis": "4",
     "porta": "3",
-    "ciutat": "Carcallona",
+    "ciutat": "Barcelona",
     "cp": "08000",
-    "pais": "Apanya"
+    "pais": "España"
   },
   "telefon": "003454566778",
   "email": "rutti@ger.trud",
@@ -24,11 +24,11 @@
   },
   "nom": "Filomena",
   "address": {
-    "carrer": "Multeras",
+    "carrer": "Mallorca",
     "numero": "42",
     "pis": "7",
     "porta": "1",
-    "ciutat": "Carcallona",
+    "ciutat": "Barcelona",
     "cp": "08020",
     "pais": "Apanya"
   },
@@ -37,25 +37,29 @@
   "data_registre": {
     "$date": "2020-11-15T00:00:00Z"
   },
-  "recomanat_per": "Diana"
+  "recomanat_per": {
+    "$oid": "60041fa4757c9a07849ef8ff"
+  }
 },{
   "_id": {
     "$oid": "600458c2757c9a07849ef901"
   },
   "nom": "Diana",
   "address": {
-    "carrer": "Risatont",
+    "carrer": "Marina",
     "numero": "687",
     "pis": "3",
     "porta": "4",
-    "ciutat": "Carcallona",
+    "ciutat": "Barcelona",
     "cp": "08017",
-    "pais": "Apanya"
+    "pais": "España"
   },
   "telefon": "003454566778",
   "email": "kroll@crymear.river",
   "data_registre": {
     "$date": "2021-01-17T00:00:00Z"
   },
-  "recomanat_per": "Ruttiger"
+  "recomanat_per": {
+    "$oid": "60041fa4757c9a07849ef8ff"
+  }
 }]

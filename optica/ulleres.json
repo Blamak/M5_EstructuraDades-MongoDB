@@ -14,7 +14,10 @@
     "esquerra": "blau"
   },
   "preu": 250.99,
-  "empleat": "Giselle"
+  "empleat": "Giselle",
+  "client_id": {
+    "$oid": "60041fa4757c9a07849ef8ff"
+  }
 },{
   "_id": {
     "$oid": "60041edc757c9a07849ef8fe"
@@ -31,5 +34,8 @@
     "esquerra": "groc"
   },
   "preu": 550.99,
-  "empleat": "Rachelle"
+  "empleat": "Rachelle",
+  "client_id": {
+    "$oid": "600458c0757c9a07849ef900"
+  }
 }]

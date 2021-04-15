@@ -5,7 +5,7 @@
   "nom": "Ray",
   "cognoms": "Gelato",
   "address": {
-    "carrer": "Mambo italiano",
+    "carrer": "Torello",
     "pis": "4",
     "porta": "3",
     "cp": "456545644",
@@ -29,7 +29,7 @@
   "nom": "King ",
   "cognoms": "Porter Stomp",
   "address": {
-    "carrer": "Jelly Roll",
+    "carrer": "Pau Casals",
     "pis": "7",
     "porta": "1",
     "cp": "7894354564",
@@ -53,7 +53,7 @@
   "nom": "Sidney",
   "cognoms": "Bechet",
   "address": {
-    "carrer": "Blue Horizon",
+    "carrer": "Tordera",
     "pis": "10",
     "porta": "5",
     "cp": "45645646",
